@@ -9,23 +9,31 @@ To visualize the trading result, a web app manager using Streamlit is implemente
 
 Below is the example of each of these three visualization:
 
-## Candlestick Chart
+### Candlestick Chart
 Candlestick chart represents the open, close, high, and low price of a stock in any given time period.
 <p align="center">
-  <img width="700" height="350" src=https://github.com/marcellusruben/Image_Cartooning_Web_App/blob/master/image/pencil_edges.png>
+  <img width="700" height="500" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/Candle.png>
 </p>
 
-## Technical Indicator Chart
+### Technical Indicator Chart
 There two momentum indicators that the user can choose from: MACD or RSI.
-
-
-## Trading Decision Chart
+<p align="center">
+  <img width="700" height="500" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/MACD.png>
+</p>
+<p align="center">
+  <img width="700" height="500" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/RSI.png>
+</p>
+### Trading Decision Chart
 Trading decision chart shows each point in time where the user is recommended to make a trade of their stocks (buy or sell) to gain as much profit as possible.
-
+<p align="center">
+  <img width="700" height="500" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/Trading.png>
+</p>
 
 Below is the example of the web app of this stock trading framework:
 
-
+<p align="center">
+  <img width="700" height="350" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/stock.gif>
+</p>
 ## Files
 There are four Python files and three text files in this project:
 
