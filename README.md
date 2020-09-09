@@ -11,6 +11,9 @@ Below is the example of each of these three visualization:
 
 ## Candlestick Chart
 Candlestick chart represents the open, close, high, and low price of a stock in any given time period.
+<p align="center">
+  <img width="700" height="350" src=https://github.com/marcellusruben/Image_Cartooning_Web_App/blob/master/image/pencil_edges.png>
+</p>
 
 ## Technical Indicator Chart
 There two momentum indicators that the user can choose from: MACD or RSI.
@@ -34,5 +37,7 @@ There are four Python files and three text files in this project:
 - main.py: a main Python file to execute all the user command from InputParam.txt and making a stock trading decision.
 - app.py: a Python file to execute the web app for this stock trading project.
 
-To execute the web app, type the following command in the conda environment:
-$ streamlit run app.py
+To execute the web app, go to the working directory of the app.py and type the following command in the conda environment:
+```
+streamlit run app.py
+```
