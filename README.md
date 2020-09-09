@@ -23,6 +23,7 @@ There two momentum indicators that the user can choose from: MACD or RSI.
 <p align="center">
   <img width="700" height="500" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/RSI.png>
 </p>
+
 ### Trading Decision Chart
 Trading decision chart shows each point in time where the user is recommended to make a trade of their stocks (buy or sell) to gain as much profit as possible.
 <p align="center">
@@ -34,6 +35,7 @@ Below is the example of the web app of this stock trading framework:
 <p align="center">
   <img width="700" height="350" src=https://github.com/marcellusruben/Stock-Trading/blob/master/Pic/stock.gif>
 </p>
+
 ## Files
 There are four Python files and three text files in this project:
 
