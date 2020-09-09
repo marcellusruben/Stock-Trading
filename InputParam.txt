@@ -1,0 +1,27 @@
+Daily_Filename D_AAPL.txt
+Hourly_Filename H_AAPL.txt
+Start_Date 2019-07-01 
+End_Date 2020-06-01
+Timeframe_Viz Daily
+Trading_Style Risk_Taking
+Indicator macd
+Daily_VWAP 15
+Hourly_VWAP 105
+
+******************************************************************************************************************
+This is the user input text file to adjust several parameters.
+Please enter the value separated by a tab to the corresponding variable parameters.
+
+Below is the value that can be provided given variable parameters:
+
+1. Daily_Filename: enter the filename of the daily stock data with its extension.
+2. Hourly_Filename: enter the filename of the hourly stock data with its extension.
+3. Start_Date: enter the start period of the timeframe. Format should be YYYY-MM-DD.
+4. End_Date: enter the end period of the timeframe. Format should be YYYY-MM-DD.
+5. Timeframe_Viz: enter the timeframe in which the visualization will be displayed. Options are: Daily or Hourly.
+6. Trading_Style: enter your trading style. Options are: Risk_Taking or Risk_Averse.
+7. Indicator: enter the indicator name. Options are: macd, rsi, and bb.
+8. Daily_VWAP: enter the moving average of daily data VWAP. Default 15.
+9. Hourly_VWAP: enter the moving average of hourly data VWAP. Default 105.
+
+********************************************************************************************************************
